@@ -1,0 +1,5 @@
+Product Line: strawberry https://www.nofrills.ca/strawberries-1lb/p/20049778001_EA
+Name: Strawberries 1LB
+Price: 4.99
+Scientific Price: (1.1, 100.0, 'g')
+

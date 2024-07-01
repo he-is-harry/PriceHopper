@@ -1,0 +1,56 @@
+bread
+cereal kellogg
+cereal general mills
+cereal fruity fruit
+cereal nestle
+cereal cheerios
+cereal nesquik
+candy bar
+cheese
+beer
+water
+cigarette
+chocolate bar | hershey cadbury mars kit kat milka toblerone ferrero lindt
+snack cake | hostess little debbie entenmann drake tastykake
+cookie
+cracker
+pepperoni
+jerky
+bacon
+ham
+wine
+muffin
+granola bar
+apple
+banana
+orange
+grape
+strawberry
+blueberry
+raspberry
+pineapple
+watermelon
+cantaloupe
+honeydew
+kiwi
+mango
+peach
+plum
+spinach
+lettuce
+carrot
+broccoli
+cauliflower
+cabbage
+onion
+garlic
+pepper
+tomato
+bean
+pea
+zucchini
+squash
+cucumber
+mushroom
+potato
+red bull
