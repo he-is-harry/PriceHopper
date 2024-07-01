@@ -1,6 +1,6 @@
 from urllib.parse import urlparse
 
-PARSE_LIST_FILE = "Files/ParseList.txt"
+PARSE_LIST_FILE = "Files/ParseListCopy.txt"
 COMPANIES_FILE = "Files/companies.txt"
 FILTERED_RESULTS_FILE = "Files/FilteredParseList.txt"
 
@@ -23,6 +23,8 @@ url_set = {}
 for productLine in parseList:
     lastSpaceIndex = productLine.rfind(" ")
     if lastSpaceIndex >= 0:
+        # Reconstruct the product line to reduce spaces between the url and product
+        product = productLine[0 : lastSpaceIndex].strip()
         url = productLine[lastSpaceIndex + 1 : ]
         urlParseRes = urlparse(url)
         foundCompany = False
@@ -42,7 +44,7 @@ for productLine in parseList:
             valid = False
         
         if foundCompany and valid:
-            filteredFile.write(productLine + "\n")
+            filteredFile.write(product + " " + url + "\n")
             url_set[url] = True
 
 filteredFile.close()

@@ -1,95 +1,20 @@
-strawberry https://www.nofrills.ca/strawberries-1lb/p/20049778001_EA
-Strawberries 1LB
-3.99
-(0.88, 100.0, 'g')
-
 milk https://www.nofrills.ca/trutaste-1-milk/p/20136554_EA
-TruTaste 1% Milk
-6.69
-(0.17, 100.0, 'ml')
-
 milk https://www.nofrills.ca/organic-partly-skimmed-2-milk/p/20304385_EA
-Organic Partly Skimmed 2% Milk
-10.19
-(0.25, 100.0, 'ml')
-
 milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/regular-milk/c/29789
-Add Partly Skimmed Milk 2% MF to cart
-6.09
-(0.15, 100.0, 'ml')
-
 milk https://www.loblaws.ca/search?search-bar=milk
-Lindt Lindor Milk Chocolate 38g
-1.99
-(5.24, 100.0, 'g')
-
 milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/c/28224
-Add Partly Skimmed Milk 2% MF to cart
-5.07
-(0.15, 100.0, 'ml')
-
 milk https://www.loblaws.ca/partly-skimmed-milk-2-mf/p/20188873_EA
-Partly Skimmed Milk 2% MF
-6.09
-(0.15, 100.0, 'ml')
-
 milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/flavoured-milk/c/29792
-Milk 2 Go
-6.49
-(0.46, 100.0, 'ml')
-
+milk https://www.loblaws.ca/search/?search-bar=milk+4+L
 milk https://www.loblaws.ca/2-milk/p/20017001_EA
-2% Milk
-5.34
-(0.27, 100.0, 'ml')
-
 milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/lactose-free/c/29794
-Add Milk 1% Bottle to cart
-7.09
-(0.47, 100.0, 'ml')
-
 soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/66350001-coke-classic-2-litre.html
-Coke Classic - 2 Litre
-3.49
-None
-
 soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/72233101-coca-cola-original-coke-sleek-cans.html
-COCA-COLA ORIGINAL COKE SLEEK CANS
-4.99
-None
-
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-355mL-Cans-12-Pack/206873
-Coca-Cola 355mL Cans, 12 Pack, 12 x 355 mL
-7.48
-(2.11, 100.0, 'ml')
-
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-2L-Bottle/206872
-Coca-Cola 2L Bottle, 2 L
-2.47
-None
-
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-Coke-Classic-355mL-Cans-Pack-of-12/45HIE63JGBIV
-Coca-Cola Coke Classic, 355mL Cans - Pack of 12
-31.3
-None
-
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-710mL-Bottles-6-Pack/10218263
-Coca-Cola 710mL Bottles, 6 Pack, 6 x 710 mL
-5.47
-(13.0, 100.0, 'ml')
-
+soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/66350001-coke-classic-2-litre.html
 soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/72233101-coca-cola-original-coke-sleek-cans.html
-COCA-COLA ORIGINAL COKE SLEEK CANS
-4.99
-None
-
 soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20313741002_C06
-Red BullEnergy Drink,4x250.0 ml
-9.99
-(1.0, 100.0, 'ml')
-
 soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20318694002_C12
-Red BullEnergy Drink,4x250.0 ml
-9.99
-(1.0, 100.0, 'ml')
-
