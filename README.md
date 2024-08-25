@@ -3,6 +3,7 @@
 Author: Harry He
 
 ## Project Description
+![PriceHopper Demo Images](https://github.com/user-attachments/assets/d676cc42-d765-4ab6-a827-9d32b84b1188)
 
 The PriceHopper app allows users to compare grocery store prices and shopping carts between different companies. The backend scrapes grocery prices off the internet into the database, allowing users to use to app to run queries on the best prices and value.
 
