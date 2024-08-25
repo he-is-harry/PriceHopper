@@ -1,20 +1,587 @@
-milk https://www.nofrills.ca/trutaste-1-milk/p/20136554_EA
-milk https://www.nofrills.ca/organic-partly-skimmed-2-milk/p/20304385_EA
-milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/regular-milk/c/29789
-milk https://www.loblaws.ca/search?search-bar=milk
-milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/c/28224
-milk https://www.loblaws.ca/partly-skimmed-milk-2-mf/p/20188873_EA
-milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/flavoured-milk/c/29792
-milk https://www.loblaws.ca/search/?search-bar=milk+4+L
-milk https://www.loblaws.ca/2-milk/p/20017001_EA
-milk https://www.loblaws.ca/food/dairy-eggs/milk-cream/lactose-free/c/29794
-soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/66350001-coke-classic-2-litre.html
-soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/72233101-coca-cola-original-coke-sleek-cans.html
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-355mL-Cans-12-Pack/206873
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-2L-Bottle/206872
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-Coke-Classic-355mL-Cans-Pack-of-12/45HIE63JGBIV
 soda coca-cola soft drink coke https://www.walmart.ca/en/ip/Coca-Cola-710mL-Bottles-6-Pack/10218263
 soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/66350001-coke-classic-2-litre.html
 soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/72233101-coca-cola-original-coke-sleek-cans.html
-soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20313741002_C06
+soda coca-cola soft drink coke https://www.tntsupermarket.com/50494801-coca-cola-quebec-maple-355ml-glass-4pk.html
+soda coca-cola soft drink coke https://www.tntsupermarket.com/66350201-diet-coke-caffeine-free-2litre.html
+soda coca-cola soft drink coke https://www.tntsupermarket.com/eng/75753301-coca-cola-diet-coke.html
 soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20318694002_C12
+soda coca-cola soft drink coke https://www.nofrills.ca/cola/p/20308197001_C24
+soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20313741002_C06
+soda coca-cola soft drink coke https://www.nofrills.ca/bottle/p/20316026002_EA
+soda coca-cola soft drink coke https://www.nofrills.ca/classic-500-ml-bottle/p/20827293_EA
+soda coca-cola soft drink coke https://www.nofrills.ca/zero/p/20308197006_C24
+soda coca-cola soft drink coke https://www.loblaws.ca/soda/p/20313741002_C06
+soda coca-cola soft drink coke https://www.loblaws.ca/cola/p/20308197001_C24
+soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20318694002_C12
+soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20318694002_C12
+soda coca-cola soft drink coke https://www.nofrills.ca/cola/p/20308197001_C24
+soda coca-cola soft drink coke https://www.nofrills.ca/soda/p/20313741002_C06
+soda coca-cola soft drink coke https://www.nofrills.ca/bottle/p/20316026002_EA
+soda coca-cola soft drink coke https://www.nofrills.ca/classic-500-ml-bottle/p/20827293_EA
+soda coca-cola soft drink coke https://www.nofrills.ca/zero/p/20308197006_C24
+soda coca-cola soft drink coke https://www.loblaws.ca/soda/p/20313741002_C06
+soda coca-cola soft drink coke https://www.loblaws.ca/cola/p/20308197001_C24
+soda coca-cola soft drink coke https://www.loblaws.ca/classic/p/20354288002_C06
+soda coca-cola soft drink coke https://www.loblaws.ca/search?search-bar=coca%20cola
+soda coca-cola soft drink coke https://www.loblaws.ca/bottle/p/20316026002_EA
+soda pepsi soft drink https://www.walmart.ca/en/ip/Pepsi-Cola-355mL-Cans-12-Pack/206933
+soda pepsi soft drink https://www.walmart.ca/en/ip/Pepsi-355mL-Cans-24-Pack/10185339
+soda pepsi soft drink https://www.walmart.ca/en/ip/Pepsi-Soda-20-oz-Bottle-Pack-of-24/65BD93RDKCKJ
+soda pepsi soft drink https://www.walmart.ca/en/ip/Pepsi-Soda-20-Oz-Bottle-Pepsi-Pack-of-24/PRD1M85GZBIREVK
+soda pepsi soft drink https://www.walmart.ca/en/ip/Pepsi-Cola-222mL-Cans-6-Pack/6000192739585
+soda pepsi soft drink https://www.tntsupermarket.com/51258001-pepsi-peach-oolong-flav-coke.html
+soda pepsi soft drink https://www.tntsupermarket.com/cht/51609301-duroyal-cream-puff.html
+soda pepsi soft drink https://www.tntsupermarket.com/eng/52785701-keeppley-magic-nova.html
+soda pepsi soft drink https://www.nofrills.ca/soda/p/20296926002_EA
+soda pepsi soft drink https://www.nofrills.ca/soda/p/20310546002_C06
+soda pepsi soft drink https://www.nofrills.ca/soda/p/20322361002_C12
+soda pepsi soft drink https://www.nofrills.ca/soda/p/21362875_C08
+soda pepsi soft drink https://www.nofrills.ca/pespi-cans/p/20306687002_C24
+soda pepsi soft drink https://www.nofrills.ca/soda/p/20857560004_C06
+soda pepsi soft drink https://www.nofrills.ca/max-zero-sugar-soda/p/20306687007_C24
+soda pepsi soft drink https://www.loblaws.ca/soda/p/20310546002_C06
+soda pepsi soft drink https://www.loblaws.ca/soda/p/20322361002_C12
+soda pepsi soft drink https://www.loblaws.ca/soda/p/20296926002_EA
+soda pepsi soft drink https://www.loblaws.ca/soda/p/20857560004_C06
+soda pepsi soft drink https://www.loblaws.ca/cola-soft-drink/p/20040201001_EA
+soda pepsi soft drink https://www.loblaws.ca/soda/p/21362875_C08
+soda sprite soft drink https://www.walmart.ca/en/ip/Sprite-Lemon-Lime-Soda-355mL-12oz-Cans-12-Pack-Imported-from-Canada/15FWK77JRT6W
+soda sprite soft drink https://www.walmart.ca/en/ip/Sprite-355mL-Cans-12-Pack/10215579
+soda sprite soft drink https://www.walmart.ca/en/ip/Sprite-Sprite-Soft-Drink-Bib-10L-Unit-1-Unit-Case/2G9S9RBG5U4H
+soda sprite soft drink https://www.walmart.ca/en/ip/Sprite-Zero-Sugar-355mL-Cans-12-Pack/6000188743456
+soda sprite soft drink https://www.walmart.ca/en/ip/Sprite-Soft-Drink-500ml-Bottles-Pack-of-24/6L1HWJKSJC04
+soda sprite soft drink https://www.walmart.ca/en/ip/Sprite-222mL-Mini-Cans-6-Pack/10280632
+soda sprite soft drink https://www.tntsupermarket.com/66350301-sprite-2litre.html
+soda sprite soft drink https://www.nofrills.ca/soda/p/20319214002_C12
+soda sprite soft drink https://www.nofrills.ca/soda/p/20298360001_C24
+soda sprite soft drink https://www.nofrills.ca/bottle/p/20306914001_EA
+soda sprite soft drink https://www.nofrills.ca/soda/p/20115107001_C06
+soda sprite soft drink https://www.nofrills.ca/soda/p/20354164001_C06
+soda sprite soft drink https://www.nofrills.ca/bottle/p/20827426_EA
+soda sprite soft drink https://www.nofrills.ca/bottle/p/20306007001_EA
+soda sprite soft drink https://www.loblaws.ca/soda/p/20319214002_C12
+soda sprite soft drink https://www.loblaws.ca/soda/p/20115107001_C06
+soda sprite soft drink https://www.loblaws.ca/soda/p/20354164001_C06
+soda sprite soft drink https://www.loblaws.ca/bottle/p/20306914001_EA
+soda sprite soft drink https://www.loblaws.ca/bottle/p/20827426_EA
+soda 7-up soft drink 7up https://www.walmart.ca/en/ip/7UP-Soft-Drink-2-L-bottle/6000188741890
+soda 7-up soft drink 7up https://www.walmart.ca/en/ip/7UP-Zero-Soft-Drink-355mL-Cans-12-Pack/6000188741883
+soda 7-up soft drink 7up https://www.walmart.ca/en/ip/7UP-Soft-Drink-222-mL-Cans-15-Pack/6000199798982
+soda 7-up soft drink 7up https://www.walmart.ca/en/ip/7UP/6000197304293
+soda 7-up soft drink 7up https://www.walmart.ca/en/ip/7UP-Soft-Drink-710mL-Bottles-6-Pack/10210277
+soda 7-up soft drink 7up https://www.walmart.ca/en/ip/7UP-Soft-Drink-1L-bottle/6000197310965
+soda 7-up soft drink 7up https://www.walmart.ca/en/ip/7UP-Zero-Soft-Drink-2-L-Bottle/10035575
+soda 7-up soft drink 7up https://www.tntsupermarket.com/eng/66387601-seven-up-light-2l.html
+soda 7-up soft drink 7up https://www.tntsupermarket.com/79302301-arctic-ocean-mandarin-soda.html
+soda 7-up soft drink 7up https://www.tntsupermarket.com/eng/70367601-schweppes-cream-soda-drink.html
+soda 7-up soft drink 7up https://www.tntsupermarket.com/eng/51384601-ice-peak-orange-orange-soda.html
+soda 7-up soft drink 7up https://www.nofrills.ca/soda/p/20325377001_C12
+soda 7-up soft drink 7up https://www.nofrills.ca/soda/p/20307968001_EA
+soda 7-up soft drink 7up https://www.nofrills.ca/soda/p/20324722001_C24
+soda 7-up soft drink 7up https://www.nofrills.ca/zero-soda/p/20325377002_C12
+soda 7-up soft drink 7up https://www.nofrills.ca/zero-soda/p/20307968002_EA
+soda 7-up soft drink 7up https://www.nofrills.ca/soda-mini/p/20857560002_C06
+soda 7-up soft drink 7up https://www.nofrills.ca/zero-sugar/p/21098829_C06
+soda 7-up soft drink 7up https://www.loblaws.ca/soda/p/20325377001_C12
+soda 7-up soft drink 7up https://www.loblaws.ca/soda/p/20307968001_EA
+soda 7-up soft drink 7up https://www.loblaws.ca/soda/p/21362410_C08
+soda 7-up soft drink 7up https://www.loblaws.ca/soda/p/20310937002_C06
+soda 7-up soft drink 7up https://www.loblaws.ca/zero-soda/p/20307968002_EA
+soda 7-up soft drink 7up https://www.loblaws.ca/soda-mini/p/20857560002_C06
+soda mountain dew soft drink https://www.walmart.ca/en/ip/MTN-Dew-Soft-Drink-2-L-Bottle/10076412
+soda mountain dew soft drink https://www.walmart.ca/en/ip/MTN-Dew-Soft-Drink-355-mL-Cans-12-Pack/10076360
+soda mountain dew soft drink https://www.walmart.ca/en/ip/MTN-Dew-Soft-Drink-710mL-Bottles-6-Pack/10076291
+soda mountain dew soft drink https://www.walmart.ca/en/ip/sodastream-mtn-dew-drink-mix-mountain-dew/6000207584653
+soda mountain dew soft drink https://www.walmart.com/ip/Mountain-Dew-Citrus-Soda-Pop-12-fl-oz-12-Pack-Cans/16785029
+soda mountain dew soft drink https://www.nofrills.ca/soda/p/20571840_C12
+soda dr pepper soft drink https://www.walmart.ca/en/ip/Dr-Pepper-Cream-Soda-Soft-Drink-591ml/1SQ2NWLZCK3C
+soda dr pepper soft drink https://www.walmart.ca/en/ip/Dr-Pepper-12-x-355-mL-cans/6000188741886
+soda dr pepper soft drink https://www.walmart.ca/en/ip/Dr-Pepper-Soda-Drink-591ml-Pack-of-24/1ZYQYMIUSPHN
+soda dr pepper soft drink https://www.walmart.com/ip/Dr-Pepper-Soda-Pop-12-fl-oz-24-Pack-Cans/15754316
+soda dr pepper soft drink https://www.walmart.ca/en/ip/Dr-Pepper-2L-bottle/6000196027142
+soda dr pepper soft drink https://www.walmart.ca/en/ip/Dr-Pepper-591mL-Bottle/6000197857480
+soda dr pepper soft drink https://www.walmart.ca/en/ip/Dr-Pepper-Cream-Soda-Cans-355ml-Pack-of-12/PRD3GD2YAD8WF8H
+soda dr pepper soft drink https://www.walmart.ca/en/ip/Dr-Pepper-Cream-Soda-12-Cans-in-1-Case/PRD2KIIX9ODYRX5
+soda dr pepper soft drink https://www.tntsupermarket.com/eng/50199001-han-kou-er-chang-plum-soda.html
+soda dr pepper soft drink https://www.nofrills.ca/soda/p/20056206001_EA
+soda dr pepper soft drink https://www.nofrills.ca/soda/p/20298422001_C12
+soda dr pepper soft drink https://www.nofrills.ca/soda/p/20298422001_C12
+soda dr pepper soft drink https://www.loblaws.ca/soda/p/20056206001_EA
+soda dr pepper soft drink https://www.nofrills.ca/soda/p/20298422001_C12
+soda dr pepper soft drink https://www.loblaws.ca/soda/p/20298422001_C12
+soda dr pepper soft drink https://www.loblaws.ca/soda/p/20056206001_EA
+soda dr pepper soft drink https://www.loblaws.ca/soft-drink/p/21209318_EA
+milk https://www.walmart.ca/en/ip/Sealtest-Partly-Skimmed-2-Milk/6000199044832
+milk https://www.walmart.ca/en/ip/Dairyland-2-Partly-Skimmed-Milk/10183990
+milk https://www.walmart.ca/en/ip/Sealtest-Homogenized-3-25-Milk/6000199047982
+milk https://www.tntsupermarket.com/product-categories/dairy-soy.html
+milk https://www.tntsupermarket.com/eng/78945501-neilson-trustaste-filtered-milk.html
+milk https://www.tntsupermarket.com/eng/67681101-hot-kid-milk-drink-6-pack.html
+milk https://www.nofrills.ca/partly-skimmed-milk-2-mf/p/20188873_EA
+milk https://www.nofrills.ca/homogenized-milk-3-25/p/20160571_EA
+milk https://www.nofrills.ca/2-milk/p/20149754_EA
+milk https://www.nofrills.ca/2-milk/p/20085214_EA
+milk https://www.nofrills.ca/2-milk/p/20017001_EA
+milk https://www.nofrills.ca/trutaste-1-milk/p/20136554_EA
+milk https://www.nofrills.ca/organic-partly-skimmed-2-milk/p/20304385_EA
+milk https://www.loblaws.ca/partly-skimmed-milk-2-mf/p/20188873_EA
+milk https://www.loblaws.ca/2-milk/p/20017001_EA
+milk https://www.loblaws.ca/2-milk/p/20085214_EA
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Classic-potato-chips/6000201210244
+chip lays lay's https://www.walmart.ca/en/c/brand/lay-s
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Oven-Baked-Potato-Chips-Original/4YIINKCOSMN7
+chip lays lay's https://www.walmart.ca/en/ip/lays-classic-potato-chips/6000197102715
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Ketchup-flavoured-potato-chips/6000201209059
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Cream-Onion-ridged-flavoured-potato-chips/6000202878100
+chip lays lay's https://www.tntsupermarket.com/eng/51899901-lays-bbq-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/eng/50532401-lays-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/52337701-lays-steak-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/51899901-lays-bbq-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/eng/50532501-lays-lightly-salted-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/52277001-lays-nori-seaweed-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/eng/79647701-lays-potato-chips-spicy-hot-pot-flv.html
+chip lays lay's https://www.tntsupermarket.com/eng/51423401-lays-lemon-frag-taro-chip.html
+chip lays lay's https://www.nofrills.ca/classic-potato-chips/p/21241032_EA
+chip lays lay's https://www.nofrills.ca/wavy-original-potato-chips/p/21240990_EA
+chip lays lay's https://www.nofrills.ca/all-dressed-flavoured-potato-chips/p/21434278_EA
+chip lays lay's https://www.nofrills.ca/ketchup-flavoured-potato-chips/p/21241033_EA
+chip lays lay's https://www.nofrills.ca/bar-b-q-flavoured-potato-chips/p/21241006_EA
+chip lays lay's https://www.nofrills.ca/salt-vinegar-flavoured-potato-chips/p/21241035_EA
+chip lays lay's https://www.loblaws.ca/classic-potato-chips/p/21241032_EA
+chip lays lay's https://www.loblaws.ca/classic-potato-chips/p/21240828_EA
+milk https://www.nofrills.ca/organic-partly-skimmed-2-milk/p/20304385_EA
+milk https://www.loblaws.ca/partly-skimmed-milk-2-mf/p/20188873_EA
+milk https://www.loblaws.ca/2-milk/p/20017001_EA
+milk https://www.loblaws.ca/2-milk/p/20085214_EA
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Classic-potato-chips/6000201210244
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Oven-Baked-Potato-Chips-Original/4YIINKCOSMN7
+chip lays lay's https://www.walmart.ca/en/ip/lays-classic-potato-chips/6000197102715
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Ketchup-flavoured-potato-chips/6000201209059
+chip lays lay's https://www.walmart.ca/en/ip/Lay-s-Cream-Onion-ridged-flavoured-potato-chips/6000202878100
+chip lays lay's https://www.tntsupermarket.com/eng/51899901-lays-bbq-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/eng/50532401-lays-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/52337701-lays-steak-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/51899901-lays-bbq-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/eng/50532501-lays-lightly-salted-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/52277001-lays-nori-seaweed-potato-chips.html
+chip lays lay's https://www.tntsupermarket.com/eng/79647701-lays-potato-chips-spicy-hot-pot-flv.html
+chip lays lay's https://www.tntsupermarket.com/eng/51423401-lays-lemon-frag-taro-chip.html
+chip lays lay's https://www.nofrills.ca/classic-potato-chips/p/21241032_EA
+chip lays lay's https://www.nofrills.ca/wavy-original-potato-chips/p/21240990_EA
+chip lays lay's https://www.nofrills.ca/all-dressed-flavoured-potato-chips/p/21434278_EA
+chip lays lay's https://www.nofrills.ca/ketchup-flavoured-potato-chips/p/21241033_EA
+chip lays lay's https://www.nofrills.ca/bar-b-q-flavoured-potato-chips/p/21241006_EA
+chip lays lay's https://www.nofrills.ca/salt-vinegar-flavoured-potato-chips/p/21241035_EA
+chip lays lay's https://www.loblaws.ca/classic-potato-chips/p/21241032_EA
+chip lays lay's https://www.loblaws.ca/classic-potato-chips/p/21240828_EA
+chip lays lay's https://www.loblaws.ca/ketchup-flavoured-potato-chips/p/21241033_EA
+chip lays lay's https://www.loblaws.ca/bar-b-q-flavoured-potato-chips/p/21241006_EA
+chip lays lay's https://www.loblaws.ca/classic-potato-chips-small-bag/p/20797306001_EA
+chip lays lay's https://www.loblaws.ca/all-dressed-flavoured-potato-chips/p/21434278_EA
+pringles chip https://www.walmart.ca/en/ip/Pringles-Original-Potato-Chips-148-G/6000196601517
+pringles chip https://www.walmart.ca/en/ip/Pringles-Snack-Stacks-Original-Potato-Chips-12x19g/6000197702582
+pringles chip https://www.walmart.ca/en/ip/Pringles-Sour-Cream-Onion-Flavour-Potato-Chips-156-G/6000196601499
+pringles chip https://www.walmart.ca/en/ip/Pringles-Party-Stack-Can-Original-Flavour-194g/6000200706255
+pringles chip https://www.walmart.ca/en/ip/Pringles-BBQ-Flavour-Potato-Chips-156-G/6000196601502
+pringles chip https://www.tntsupermarket.com/77566201-pringles-original.html
+pringles chip https://www.tntsupermarket.com/eng/77566201-pringles-original.html
+pringles chip https://www.tntsupermarket.com/eng/05025101-cherry.html
+pringles chip https://www.tntsupermarket.com/eng/50187901-zx-bamboo.html
+pringles chip https://www.tntsupermarket.com/64703101-cock-palm-sugar.html
+pringles chip https://www.tntsupermarket.com/eng/02207201-futomaki-sushi-set.html
+pringles chip https://www.nofrills.ca/original-potato-chips/p/21003833_EA
+pringles chip https://www.nofrills.ca/sour-cream-onion-flavour-potato-chips/p/21003823_EA
+pringles chip https://www.nofrills.ca/bbq-flavour-potato-chips/p/21003832_EA
+pringles chip https://www.nofrills.ca/buffalo-ranch-potato-chips/p/21003826_EA
+pringles chip https://www.nofrills.ca/ketchup-potato-chips/p/21002466_EA
+pringles chip https://www.nofrills.ca/cheddar-sour-cream-flavour-potato-chips/p/21422908_EA
+pringles chip https://www.loblaws.ca/original-potato-chips/p/21003833_EA
+pringles chip https://www.loblaws.ca/snack-stacks-original/p/21069445_EA
+pringles chip https://www.loblaws.ca/sour-cream-onion-flavour-potato-chips/p/21003823_EA
+pringles chip https://www.loblaws.ca/salt-vinegar-flavour-potato-chips/p/21003830_EA
+doritos chip https://www.walmart.ca/en/ip/Doritos-Nacho-Cheese-Tortilla-Chips/6000202776296
+doritos chip https://www.walmart.ca/en/ip/Doritos-Nacho-Cheese-flavoured-tortilla-chips/6000202808452
+doritos chip https://www.walmart.ca/en/ip/Doritos-Spicy-Nacho-flavoured-tortilla-chips/6000202808446
+doritos chip https://www.walmart.ca/en/ip/Doritos-Sweet-Chili-Heat-flavoured-tortilla-chips/6000202799684
+doritos chip https://www.walmart.ca/en/ip/Doritos-Flamin-Hot-Nacho-flavoured-tortilla-chips/6000202491532
+doritos chip https://www.tntsupermarket.com/eng/76537601-doritos-nacho-chips-cheese.html
+doritos chip https://www.tntsupermarket.com/eng/76537801-doritos-coll-ranch-nacho-chips.html
+doritos chip https://www.tntsupermarket.com/eng/76537901-doritos-zesty-cheese-nacho-chips.html
+doritos chip https://www.tntsupermarket.com/chs/76537901-doritos-zesty-cheese-nacho-chips.html
+doritos chip https://www.tntsupermarket.com/cht/76537901-doritos-zesty-cheese-nacho-chips.html
+doritos chip https://www.nofrills.ca/nacho-cheese-flavoured-tortilla-chips/p/21369118_EA
+doritos chip https://www.nofrills.ca/cool-ranch-flavoured-tortilla-chips/p/21369106_EA
+doritos chip https://www.nofrills.ca/zesty-cheese-flavoured-tortilla-chips/p/21369102_EA
+doritos chip https://www.nofrills.ca/sweet-chili-heat-flavoured-tortilla-chips/p/21369112_EA
+doritos chip https://www.nofrills.ca/nacho-chips/p/21370250_EA
+doritos chip https://www.nofrills.ca/nacho-cheese-tortilla-chips/p/21584942_EA
+doritos chip https://www.nofrills.ca/zesty-cheese-tortilla-chips/p/21584961_EA
+doritos chip https://www.loblaws.ca/nacho-cheese-flavoured-tortilla-chips/p/21369118_EA
+doritos chip https://www.loblaws.ca/nacho-chips/p/21370250_EA
+doritos chip https://www.loblaws.ca/flamin-hot-nacho-flavoured-tortilla-chips/p/21369097_EA
+doritos chip https://www.loblaws.ca/cool-ranch-flavoured-tortilla-chips/p/21369106_EA
+ruffles chip https://www.walmart.ca/en/ip/Ruffles-All-Dressed-Flavoured-Potato-Chips/6000201204957
+ruffles chip https://www.walmart.ca/en/ip/Ruffles-Regular-Potato-Chips/6000201208632
+ruffles chip https://www.walmart.ca/en/ip/Ruffles-Regular-Potato-Chips/6000201209195
+ruffles chip https://www.walmart.ca/en/ip/Ruffles-Regular-Lightly-Salted-Potato-Chips/6000201206660
+ruffles chip https://www.walmart.ca/en/ip/Ruffles-Sour-Cream-n-Onion-Flavoured-Potato-Chips/6000201208610
+ruffles chip https://www.tntsupermarket.com/50533401-ruffles-bbq-potato-chips.html
+ruffles chip https://www.nofrills.ca/all-dressed-flavoured-potato-chips/p/21241052_EA
+ruffles chip https://www.nofrills.ca/regular-potato-chips/p/21241053_EA
+ruffles chip https://www.nofrills.ca/sour-cream-n-bacon-flavoured-potato-chips/p/21240588_EA
+ruffles chip https://www.nofrills.ca/sour-cream-n-onion-flavoured-potato-chips/p/21241146_EA
+ruffles chip https://www.nofrills.ca/all-dressed-flavoured-potato-chips-small-bag/p/20797687002_EA
+ruffles chip https://www.nofrills.ca/regular-potato-chips-small-bag/p/20797687001_EA
+ruffles chip https://www.nofrills.ca/cheedar-sour-cream-potato-chips/p/21588626_EA
+ruffles chip https://www.nofrills.ca/ranch-flavoured-dip/p/20323883002_EA
+ruffles chip https://www.loblaws.ca/regular-potato-chips/p/21241053_EA
+ruffles chip https://www.loblaws.ca/regular-potato-chips-value-size/p/21241142_EA
+ruffles chip https://www.loblaws.ca/all-dressed-flavoured-potato-chips/p/21241052_EA
+ruffles chip https://www.loblaws.ca/regular-lightly-salted-potato-chips/p/21241145_EA
+cheetos puff https://www.walmart.ca/en/ip/Cheetos-Puffs-Cheese-Flavoured-Snacks/6000202776244
+cheetos puff https://www.walmart.ca/en/ip/Cheetos-Puffs-Cheese-Flavoured-Snacks/6000202808431
+cheetos puff https://www.walmart.ca/en/ip/cheetos-puffs-cheese-flavoured-snacks/6000197102751
+cheetos puff https://www.walmart.ca/en/ip/cheetos-puffs-cheese-snacks/6000202776243
+cheetos puff https://www.tntsupermarket.com/eng/76542101-cheetos-puffs-extruded-cheetos.html
+cheetos puff https://www.tntsupermarket.com/50997401-cheetos-chicken-cornstick.html
+cheetos puff https://www.tntsupermarket.com/eng/76542401-cheetos-crunch-cheddar-ja-extruded.html
+cheetos puff https://www.tntsupermarket.com/eng/50997101-cheetos-steak-flavor-cornstick.html
+cheetos puff https://www.walmart.ca/en/ip/Cheetos-Puffs-Flamin-Hot-Cheese-Flavoured-Snacks/6000202807924
+cheetos puff https://www.nofrills.ca/puffs-cheese-flavoured-snacks/p/21370169_EA
+cheetos puff https://www.nofrills.ca/puffs-cheese-flavoured-snacks/p/21584780_EA
+cheetos puff https://www.nofrills.ca/crunchy-cheese-flavoured-snacks/p/21370195_EA
+cheetos puff https://www.nofrills.ca/simply-cheetos-puffs-white-cheddar-snacks/p/21205434_EA
+cheetos puff https://www.nofrills.ca/crunchy-cheddar-jalape-o-flavour-cheese-flavoured/p/21370206_EA
+cheetos puff https://www.nofrills.ca/cheese-flavoured-twists/p/20322677_EA
+cheetos puff https://www.nofrills.ca/simply-cheetos-crunchy-white-cheddar-snacks/p/21293080_EA
+cheetos puff https://www.nofrills.ca/crunchy-flamin-hot-cheese-flavoured-snacks/p/21584896_EA
+cheetos puff https://www.loblaws.ca/simply-cheetos-puffs-white-cheddar-snacks/p/21205434_EA
+cheetos puff https://www.loblaws.ca/puffs-cheese-flavoured-snacks/p/21370174_EA
+cheetos puff https://www.loblaws.ca/puffs-cheese-flavoured-snacks/p/21370169_EA
+cheetos puff https://www.loblaws.ca/crunchy-cheese-flavoured-snacks/p/21370171_EA
+kettle chip https://www.walmart.ca/en/ip/Great-Value-Sea-Salt-Kettle-Cooked-Potato-Chips/6000199294501
+kettle chip https://www.walmart.ca/en/ip/Kettle-Chips-Sea-Salt/10236304
+kettle chip https://www.walmart.ca/en/ip/Kettle-Chips-Honey-Dijon/10236609
+kettle chip https://www.tntsupermarket.com/eng/50858401-tnt-original-flavor-potato-chips.html
+kettle chip https://www.tntsupermarket.com/eng/60053501-calbee-bbq-potato-chips.html
+kettle chip https://www.nofrills.ca/original-kettle-cooked-chips/p/21422931_EA
+kettle chip https://www.nofrills.ca/potato-chips-honey-dijon/p/21520692_EA
+kettle chip https://www.loblaws.ca/potato-chips-sea-salt/p/21520652_EA
+kettle chip https://www.loblaws.ca/original-kettle-cooked-chips/p/21422931_EA
+kettle chip https://www.loblaws.ca/potato-chips-sea-salt-vinegar/p/21520654_EA
+kettle chip https://www.loblaws.ca/potato-chips-sea-salt-vinegar/p/21589952_EA
+kettle chip https://www.loblaws.ca/original-kettle-cooked-chips-club-size/p/21426018_EA
+kettle chip https://www.loblaws.ca/potato-chips-cheddar/p/21520665_EA
+kettle chip https://www.loblaws.ca/barbecue-flavour-kettle-cooked-chips/p/21425138_EA
+egg https://www.walmart.ca/en/ip/Great-Value-Large-Eggs/10052944
+egg https://www.walmart.ca/en/ip/Gray-Ridge-White-Eggs-30-Pack-Medium/6000201516296
+egg https://www.tntsupermarket.com/eng/51210501-tnt-brown-egg.html
+egg https://www.tntsupermarket.com/eng/51163901-yorkshire-organic-eggs-large.html
+egg https://www.tntsupermarket.com/eng/76581101-grand-maple-preserved-duck-egg.html
+egg https://www.tntsupermarket.com/50924101-chinamaid-cooked-salted-duck-eggs.html
+egg https://www.tntsupermarket.com/eng/68906001-golden-valley-jumbo-white-egg.html
+egg https://www.nofrills.ca/large-grade-a-eggs/p/20812144001_EA
+egg https://www.nofrills.ca/grade-a-large-eggs/p/20814294001_EA
+egg https://www.nofrills.ca/grade-a-extra-large-eggs/p/20812726001_EA
+egg https://www.nofrills.ca/free-range-large-brown-eggs/p/20813711001_EA
+egg https://www.nofrills.ca/grade-a-white-eggs-large/p/20814818001_EA
+egg https://www.nofrills.ca/naturegg-nest-laid-white-eggs-large/p/20816075001_EA
+egg https://www.loblaws.ca/large-grade-a-eggs/p/20812144001_EA
+egg https://www.loblaws.ca/free-range-large-brown-eggs-club-pack-30-count/p/21205224001_EA
+egg https://www.loblaws.ca/free-run-brown-eggs-large/p/20813628001_EA
+egg https://www.loblaws.ca/grade-a-extra-large-eggs/p/20812726001_EA
+egg https://www.loblaws.ca/egg-whites/p/20821364001_EA
+egg https://www.loblaws.ca/extra-large-size-free-range-brown-eggs/p/20813389001_EA
+egg https://www.loblaws.ca/free-run-omega-3-hard-boiled-peeled-eggs-3x2-packs/p/21048196001_EA
+bread https://www.walmart.ca/en/ip/great-value-white-bread/6000206630541
+bread https://www.walmart.ca/en/ip/ditaliano-ditaliano-original-white-bread/6000196795247
+bread https://www.tntsupermarket.com/eng/64980001-plain-bread.html
+bread https://www.tntsupermarket.com/eng/02250801-tnt-bakery-milk-bread-400g.html
+bread https://www.tntsupermarket.com/02251301-60-whole-wheat-bread.html
+bread https://www.nofrills.ca/100-whole-wheat-bread/p/21509877_EA
+bread https://www.nofrills.ca/original-bread/p/21509822_EA
+bread https://www.nofrills.ca/14-grains-bread/p/21178642_EA
+bread https://www.nofrills.ca/bread-sliced-white/p/20276296_EA
+bread https://www.nofrills.ca/sourdough-sliced-miche/p/21166112_EA
+bread https://www.nofrills.ca/bavarian-multi-grain-bread/p/20080181_EA
+bread https://www.nofrills.ca/cracked-wheat-bread/p/21509159_EA
+bread https://www.nofrills.ca/whole-grains-bread-no-sugar-added/p/21178630_EA
+bread https://www.loblaws.ca/bread-farmer-s-sliced/p/20343583_EA
+bread https://www.loblaws.ca/12-grain-bread-sliced/p/20811250_EA
+bread https://www.loblaws.ca/bread-french/p/20788443_EA
+bread https://www.loblaws.ca/sliced-sourdough-miche/p/21314337_EA
+bread https://www.loblaws.ca/italian-bread/p/20345208_EA
+bread https://www.loblaws.ca/sourdough-bread-boule/p/20132458_EA
+bread https://www.loblaws.ca/14-grains-bread/p/21178642_EA
+bread https://www.loblaws.ca/bavarian-premium-sandwich-bread/p/20342144_EA
+bread https://www.loblaws.ca/bread-challah/p/20155226_EA
+cereal kellogg https://www.walmart.ca/en/ip/Kellogg-s-Corn-Flakes-Cereal-600-g/1LO8I3ISTWQ0
+cereal kellogg https://www.walmart.ca/en/ip/Kellogg-s-Corn-Flakes-Cereal-440g/6000194486332
+cereal kellogg https://www.walmart.ca/en/ip/Kellogg-s-Corn-Flakes-Cereal-340-g/63SB661IRYQX
+cereal kellogg https://www.walmart.ca/en/ip/Kellogg-s-Fun-Pac-Cereal-210g/10277685
+cereal kellogg https://www.walmart.ca/en/ip/Kellogg-s-Special-K-Original-Cereal-Family-Pack-545-G/4A848XV1IKET
+cereal kellogg https://www.tntsupermarket.com/66308601-kelloggs-fun-pac-cereal-8s.html
+cereal kellogg https://www.tntsupermarket.com/eng/52074101-kelloggs-corn-flakes.html
+cereal kellogg https://www.tntsupermarket.com/cht/66308601-kelloggs-fun-pac-cereal-8s.html
+cereal kellogg https://www.tntsupermarket.com/eng/52074001-kelloggs-rice-krispies-original.html
+cereal kellogg https://www.tntsupermarket.com/66536301-kelloggs-muslix-almond-raisin.html
+cereal kellogg https://www.tntsupermarket.com/eng/66370301-kelloggs-vector-meal-replacement.html
+cereal kellogg https://www.nofrills.ca/corn-flakes-family-size/p/21450811_EA
+cereal kellogg https://www.nofrills.ca/cereal/p/21450851_EA
+cereal kellogg https://www.nofrills.ca/frosted-flakes-cereal/p/20842545_EA
+cereal kellogg https://www.nofrills.ca/all-bran-flakes-cereal/p/20816418_EA
+cereal kellogg https://www.nofrills.ca/frosted-flakes-cereal-family-size/p/21449811_EA
+cereal kellogg https://www.loblaws.ca/cereal/p/21450851_EA
+cereal kellogg https://www.loblaws.ca/fun-pac-cereal/p/20067427_EA
+cereal kellogg https://www.loblaws.ca/cereal-original-family-size/p/21449810_EA
+cereal kellogg https://www.loblaws.ca/frosted-flakes-cereal-family-size/p/21449811_EA
+cereal kellogg https://www.loblaws.ca/corn-flakes-family-size/p/21450811_EA
+cereal kellogg https://www.loblaws.ca/cereal-original/p/21607294_EA
+cereal kellogg https://www.loblaws.ca/cereal-original/p/21607207_EA
+cereal kellogg https://www.loblaws.ca/cereal-crunch/p/21594420_EA
+cereal general mills https://www.walmart.ca/en/ip/Original-Cheerios-Breakfast-Cereal-Whole-Grains-350-g/6000198307860
+cereal general mills https://www.walmart.ca/en/ip/General-Mills-Cereal-Snack-Pack/6000203949396
+cereal general mills https://www.walmart.ca/en/ip/Multi-Grain-Cheerios-Breakfast-Cereal-Whole-Grains-342-g/6000198308520
+cereal general mills https://www.tntsupermarket.com/eng/52625401-general-mills-honey-nut-cheerios.html
+cereal general mills https://www.tntsupermarket.com/eng/52625601-general-mills-lucky-charms.html
+cereal general mills https://www.tntsupermarket.com/chs/52625501-general-mills-cinnamon-toast-crunch.html
+cereal general mills https://www.nofrills.ca/original-cheerios-breakfast-cereal-family-size-who/p/21103499_EA
+cereal general mills https://www.nofrills.ca/original-cheerios-breakfast-cereal-whole-grains/p/21104173_EA
+cereal general mills https://www.nofrills.ca/french-toast-crunch-cereal/p/20318643_EA
+cereal general mills https://www.loblaws.ca/cheerios-cereal-multi-grain-jumbo/p/20679863_EA
+cereal general mills https://www.loblaws.ca/chocolate-cheerios-breakfast-cereal/p/21378919_EA
+cereal fruity fruit https://www.walmart.ca/en/ip/Post-Fruity-Pebbles-Cereal-Retail-Size-311-g/3E2S5SA9AYN6
+cereal fruity fruit https://www.walmart.ca/en/ip/Kellogg-s-Froot-Loops-Cereal-Family-Size-480g/6000204515845
+cereal fruity fruit https://www.walmart.ca/en/ip/Kellogg-s-Froot-Loops-Cereal-Jumbo-Size-825g/10302846
+cereal fruity fruit https://www.walmart.ca/en/ip/Kellogg-s-Froot-Loops-Cereal-345g/10302899
+cereal fruity fruit https://www.tntsupermarket.com/eng/76392201-calbee-fruits-fruits-granola.html
+cereal fruity fruit https://www.tntsupermarket.com/eng/73924301-kelloggs-froot-loops.html
+cereal fruity fruit https://www.tntsupermarket.com/cht/52390301-tnt-fruit-yogurt-cube-granola.html
+cereal fruity fruit https://www.tntsupermarket.com/eng/52390401-tnt-fruit-and-nut-granola.html
+cereal fruity fruit https://www.tntsupermarket.com/eng/78846901-nissin-five-colors-fruits-granola.html
+cereal fruity fruit https://www.nofrills.ca/trix-fruity-shapes-cereal/p/21174141_EA
+cereal fruity fruit https://www.nofrills.ca/froot-loops-cereal/p/20591279_EA
+cereal fruity fruit https://www.nofrills.ca/cheerios-apple-strawberry-veggie-blends/p/21599148_EA?source=nspt
+cereal fruity fruit https://www.nofrills.ca/chewy-granola-cereal-or-fruit-bars-strawberry-frui/p/21430773_EA
+cereal fruity fruit https://www.loblaws.ca/trix-fruity-shapes-cereal/p/21174141_EA
+cereal fruity fruit https://www.loblaws.ca/fruity-pebbles-cereal/p/21576434_EA
+cereal fruity fruit https://www.loblaws.ca/froot-loops/p/21430738_EA
+cereal fruity fruit https://www.loblaws.ca/froot-loops-cereal/p/20591279_EA
+cereal fruity fruit https://www.loblaws.ca/crispy-o-s-cereal-fruit-flavoured/p/20037318005_EA
+cereal nestle https://www.walmart.ca/en/ip/Nesquik-Chocolate-Breakfast-Cereal-Whole-Grains-and-Fibre-340-g/206771
+cereal nestle https://www.walmart.ca/en/ip/cerelac-cerelac-honey-wheat-with-milk-baby-cereal-source-of-iron-essential-nutrients-vegetarian-no-additives-halal-correct-recyclable-canister-reseala/6000206843165
+cereal nestle https://www.walmart.ca/en/ip/Nesquik-Chocolate-Breakfast-Cereal-Whole-Grains-and-Fibre-340-g/6000016939423
+cereal nestle https://www.walmart.ca/en/ip/cerelac-cerelac-honey-wheat-with-milk-baby-cereal-source-of-iron-essential-nutrients-vegetarian-no-additives-halal-correct-recyclable-canister-reseala/6000206843164
+cereal nestle https://www.tntsupermarket.com/eng/65616301-greenmax-yam-multi-grains-cereal.html
+cereal nestle https://www.tntsupermarket.com/eng/60992801-general-mills-nesquik-cereal.html
+cereal nestle https://www.tntsupermarket.com/eng/78898901-quaker-walnutchestnut-cereal.html
+cereal nestle https://www.tntsupermarket.com/chs/77782001-greenmax-flaxseed-ak-nuts-cereal.html
+cereal nestle https://www.tntsupermarket.com/52687801-wmxz-spicy-cereal-crackers.html
+cereal nestle https://www.nofrills.ca/gerber-rice-cereal/p/20358339007_EA
+cereal nestle https://www.nofrills.ca/nesquik-chocolate-breakfast-cereal-family-size-who/p/20432217004_EA
+cereal nestle https://www.nofrills.ca/gerber-stage-4-multigrain-cherries-berries-baby-ce/p/20574634002_EA
+cereal nestle https://www.nofrills.ca/cereal-original/p/21607294_EA?source=nspt
+cereal nestle https://www.nofrills.ca/special-k-original-cereal/p/20793624_EA
+cereal nestle https://www.nofrills.ca/whole-grain-cereal/p/20184626_EA
+cereal nestle https://www.loblaws.ca/nesquik-loaded-bites-cereal/p/21599166_EA
+cereal nestle https://www.loblaws.ca/cerelac-honey-wheat-with-milk-baby-cereal/p/21564977_EA
+cereal nestle https://www.loblaws.ca/gerber-rice-cereal/p/20358339007_EA
+cereal nestle https://www.loblaws.ca/Feeding-%26-Nursing/Baby-Cereal-%26-Snacks/Gerber-GERBER-Rice-Cereal/p/20358339007_EA
+cereal nestle https://www.loblaws.ca/gerber-stage-2-oat-prune-baby-cereal/p/20782985_EA
+cereal cheerios https://www.walmart.ca/en/ip/Multi-Grain-Cheerios-Breakfast-Cereal-Family-Size-Whole-Grains-585-g/6000198307372
+cereal cheerios https://www.walmart.ca/en/ip/Original-Cheerios-Breakfast-Cereal-Family-Size-Whole-Grains-570-g/6000198309628
+cereal cheerios https://www.tntsupermarket.com/cht/52625401-general-mills-honey-nut-cheerios.html
+cereal cheerios https://www.tntsupermarket.com/eng/52625401-general-mills-honey-nut-cheerios.html
+cereal cheerios https://www.nofrills.ca/honey-nut-cheerios-breakfast-cereal-family-size-wh/p/21103495_EA
+cereal cheerios https://www.nofrills.ca/multi-grain-cheerios-breakfast-cereal-family-size/p/21103503_EA
+cereal cheerios https://www.nofrills.ca/honey-nut-cheerios-breakfast-cereal-whole-grains/p/21104047_EA
+cereal cheerios https://www.nofrills.ca/multi-grain-cheerios-breakfast-cereal-whole-grains/p/21104058_EA
+cereal cheerios https://www.loblaws.ca/original-cheerios-breakfast-cereal-family-size-who/p/21103499_EA
+cereal cheerios https://www.loblaws.ca/original-cheerios-breakfast-cereal-whole-grains/p/21104173_EA
+cereal cheerios https://www.loblaws.ca/original-cheerios-breakfast-cereal-jumbo-size-whol/p/20681872_EA
+cereal cheerios https://www.loblaws.ca/honey-nut-cheerios-breakfast-cereal-family-size-wh/p/21103495_EA
+cereal cheerios https://www.loblaws.ca/multi-grain-cheerios-breakfast-cereal-family-size/p/21103503_EA
+cereal cheerios https://www.loblaws.ca/honey-nut-cheerios-breakfast-cereal-jumbo-size-who/p/20679390_EA
+cereal cheerios https://www.loblaws.ca/multi-grain-cheerios-breakfast-cereal-whole-grains/p/21104058_EA
+cereal nesquik https://www.walmart.ca/en/ip/Nesquik-Chocolate-Kids-Breakfast-Cereal-Family-Size-Whole-Grains-600-g/10281535
+cereal nesquik https://www.loblaws.ca/nesquik-chocolate-breakfast-cereal-jumbo-size/p/21214413_EA
+candy bar https://www.tntsupermarket.com/eng/51610901-ys-white-thunder-chocolate-bar.html
+candy bar https://www.tntsupermarket.com/eng/76006901-yuraku-black-thunder-crunch-choco-cookie.html
+candy bar https://www.tntsupermarket.com/eng/60040601-cadbury-mr-big.html
+candy bar https://www.tntsupermarket.com/eng/52828801-mr-beast-peanut-butter-choc-bar.html
+candy bar https://www.tntsupermarket.com/eng/52829001-mr-beast-milk-chocolate-bar.html
+candy bar https://www.nofrills.ca/peanut-free-chocolate-candy-bar-full-size-bar/p/20695204_EA
+candy bar https://www.nofrills.ca/milk-chocolate-bar/p/20580727_EA
+candy bar https://www.nofrills.ca/candy-bar/p/20573406_EA
+candy bar https://www.nofrills.ca/peanut-milk-chocolate-candy-bar-full-size-bar/p/20638810_EA
+candy bar https://www.nofrills.ca/peanut-free-chocolate-candy-bar-4-full-size-bars/p/20313925_EA
+candy bar https://www.nofrills.ca/loads-of-gummies-candies-milk-chocolate-dessert-ba/p/21459636_EA
+candy bar https://www.nofrills.ca/chocolatey-candy-bar-snack-size-8ct/p/21571917_EA
+candy bar https://www.loblaws.ca/candy-bar/p/20573406_EA
+candy bar https://www.loblaws.ca/peanut-free-chocolate-candy-bar-full-size-bar/p/20695204_EA
+candy bar https://www.loblaws.ca/chocolatey-full-size-candy-bar/p/20581797_EA
+candy bar https://www.loblaws.ca/loads-of-movie-night-milk-chocolate-dessert-bar/p/21459513_EA
+candy bar https://www.loblaws.ca/chocolatey-candy-bar-caramel/p/20691626_EA
+cheese https://www.walmart.ca/en/ip/great-value-old-cheddar-cheese/6000201734275
+cheese https://www.walmart.ca/en/ip/great-value-cheddar-style-process-cheese-product/6000200026176
+cheese https://www.tntsupermarket.com/eng/51251001-armstrong-pizza-mozz-shred-cheese.html
+cheese https://www.nofrills.ca/old-cheddar-cheese/p/20975873_EA
+cheese https://www.nofrills.ca/shredded-farmer-s-marble-cheese/p/21200684_EA
+cheese https://www.nofrills.ca/medium-cheddar-cheese/p/21347244_EA
+cheese https://www.nofrills.ca/farmer-s-marble-cheese/p/20975773_EA
+cheese https://www.nofrills.ca/farmer-s-marble-cheese/p/21289745_EA
+cheese https://www.nofrills.ca/processed-cheddar-cheese-slices-22-units/p/21252564_EA
+cheese https://www.nofrills.ca/shredded-mozzarella-cheese/p/20317943_EA
+cheese https://www.loblaws.ca/cheese-nibbler/p/20589560_EA
+cheese https://www.loblaws.ca/le-gruy-re-antique-hard-ripened-cheese-aged-12-mon/p/20814360_EA
+cheese https://www.loblaws.ca/halloom-semi-soft-unripened-cheese/p/20563213_EA
+cheese https://www.loblaws.ca/old-cheddar-cheese/p/20975873_EA
+cheese https://www.loblaws.ca/sabana-queso-cotija-cheese/p/21353506_EA
+cheese https://www.loblaws.ca/monterey-jack-cheese/p/21289775_EA
+cheese https://www.loblaws.ca/farmer-s-marble-cheese/p/20975773_EA
+beer https://www.tntsupermarket.com/eng/51976801-new-zero-hazy-ipa-0-45-alcohol-beer.html
+beer https://www.tntsupermarket.com/eng/
+beer https://www.tntsupermarket.com/51976701-new-zero-pilsner-alcohol-free-beer.html
+beer https://www.tntsupermarket.com/eng/51487101-terun-milk-beer.html
+beer https://www.nofrills.ca/sunbrew-alcohol-free-beer-with-natural-flavour-and/p/21515805_C12
+beer https://www.nofrills.ca/alcohol-free-beer-bottles-with-natural-flavours/p/21099500_C06
+beer https://www.nofrills.ca/edge-non-alcoholic-beer-with-natural-flavours-doub/p/21105236_C12
+beer https://www.nofrills.ca/exel-lager-0-5/p/20056727_C12
+water https://www.walmart.ca/en/ip/Great-Value-24pk-Spring-Water/10295446
+water https://www.walmart.ca/en/ip/Pure-Life-Natural-Spring-Water/206900
+water https://www.tntsupermarket.com/eng/51808401-president-choice-spring-water-distilled.html
+water https://www.tntsupermarket.com/eng/66737802-dasani-spring-water.html
+water https://www.tntsupermarket.com/eng/51302001-pun-chun-lye-water.html
+water https://www.tntsupermarket.com/eng/62722401-aquafina-demineral-water.html
+water https://www.nofrills.ca/natural-spring-water/p/20154975_C24
+water https://www.nofrills.ca/natural-spring-water/p/20060696_C24
+water https://www.nofrills.ca/distilled-water/p/20797191_EA
+water https://www.nofrills.ca/natural-spring-water/p/21185641_EA
+water https://www.nofrills.ca/smartwater-bottle/p/20154181_EA
+water https://www.nofrills.ca/grape-enhanced-water-with-gatorade-electrolytes-6/p/21367827_C06
+water https://www.loblaws.ca/natural-spring-water-24-pack/p/20137898_C24
+water https://www.loblaws.ca/natural-spring-water/p/20313917_EA
+water https://www.loblaws.ca/natural-spring-water/p/20076312_EA
+water https://www.loblaws.ca/distilled-water/p/20797191_EA
+water https://www.loblaws.ca/natural-spring-water/p/21185641_EA
+water https://www.loblaws.ca/distilled-water/p/20313061001_EA
+cigarette https://www.nofrills.ca/
+cigarette https://www.loblaws.ca/
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.walmart.ca/en/ip/Great-Value-Milk-Chocolate-bar/6000192235382
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.walmart.ca/en/ip/Great-Value-Milk-Chocolate-bar/6000192235381
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.walmart.ca/en/ip/Waterbridge-Milk-Chocolate-bar/6000189674307
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.walmart.ca/en/ip/Great-Value-Orange-Milk-Chocolate/6000204936083
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.tntsupermarket.com/eng/51950901-rocher-milk-chocolate-bars.html
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.tntsupermarket.com/eng/74748901-president-choice-milk-chocolate-bar.html
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.nofrills.ca/dark-chocolate-bar/p/20580726_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.nofrills.ca/70-dark-chocolate-bar/p/20307295_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.nofrills.ca/dipped-and-chewy-chocolate-fudge-and-chocolate-chi/p/20309037_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.nofrills.ca/milk-chocolate-with-hazelnuts-bar/p/21337890_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.nofrills.ca/premium-dark-chocolate-bar/p/20639786_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.loblaws.ca/milk-chocolate-bar/p/20298217_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.loblaws.ca/milk-chocolate-bar/p/20580727_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.loblaws.ca/70-dark-chocolate-bar/p/20307295_EA
+chocolate bar hershey cadbury mars kit kat milka toblerone ferrero lindt https://www.loblaws.ca/milk-chocolate/p/20024823_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.walmart.ca/en/ip/hostess-cupcakes-chocolate-cakes/6000200816929
+snack cake hostess little debbie entenmann drake tastykake https://www.walmart.ca/en/ip/school-safe-birthday-cake-muffin-bar/PRD2P7RMP83X4JP
+snack cake hostess little debbie entenmann drake tastykake https://www.walmart.com/ip/Little-Debbie-Zebra-Cakes-13-oz/16777549
+snack cake hostess little debbie entenmann drake tastykake https://www.walmart.com/ip/Schar-Gluten-Free-Sch-nacks-Chocolate-Cream-Filled-Snack-Cakes-1-2-oz-10-Count-Regular-Bag/49129607
+snack cake hostess little debbie entenmann drake tastykake https://www.walmart.com/ip/Snack-Cakes-Little-Debbie-Family-Pack-Birthday-Cakes/441059408
+snack cake hostess little debbie entenmann drake tastykake https://www.tntsupermarket.com/eng/77498201-orion-hazelnut-chocolate-cake.html
+snack cake hostess little debbie entenmann drake tastykake https://www.nofrills.ca/loaf-cake-marble/p/20611096_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.nofrills.ca/crispy-minis-original-large-brown-rice-cakes/p/20163708002_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.nofrills.ca/loaf-cake-cinnamon-swirl/p/20610846_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.nofrills.ca/swiss-rolls-original-cakes/p/21183401_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.nofrills.ca/crispy-minis-caramel-chocolate-chip-flavour-large/p/20313756001_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.nofrills.ca/muffin-bars-banana-chocolate-chip/p/21417380_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.nofrills.ca/mini-angel-food-cakes/p/21313112_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.loblaws.ca/muffin-bars-birthday-cake/p/21363224_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.loblaws.ca/vanilla-flavour-cakes-1-2-lune-moon/p/21027889_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.loblaws.ca/ah-caramel/p/20005728_EA
+snack cake hostess little debbie entenmann drake tastykake https://www.loblaws.ca/twinkies-cakes/p/21283752_EA
+cookie https://www.walmart.ca/en/ip/your-fresh-market-chocolate-chip-cookies/6000202678434
+cookie https://www.walmart.ca/en/ip/your-fresh-market-monster-cookies/6000205222610
+cookie https://www.tntsupermarket.com/eng/65749501-toronto-maple-cream-cookies.html
+cookie https://www.tntsupermarket.com/eng/75743401-ishiyaseika-white-chocolate-cookie.html
+cookie https://www.tntsupermarket.com/75094001-sanritsu-white-chocolate-cookie.html
+cookie https://www.nofrills.ca/chocolately-chip-cookies/p/20318678001_EA
+cookie https://www.nofrills.ca/the-decadent-chocolate-chip-cookie/p/20612256_EA
+cookie https://www.nofrills.ca/oatmeal-cookies/p/20318678002_EA
+cookie https://www.nofrills.ca/the-decadent-soft-baked-chocolate-chip-cookies/p/20708586_EA
+cookie https://www.nofrills.ca/chocolate-chip-cookies/p/20566774_EA
+cookie https://www.nofrills.ca/oatmeal-chocolate-cookies/p/20566294_EA
+cookie https://www.nofrills.ca/oatmeal-chocolate-chip-cookies/p/20565934_EA
+cookie https://www.nofrills.ca/c-l-bration-butter-cookies-chocolate-chip/p/21355599_EA
+cookie https://www.loblaws.ca/the-decadent-chocolate-chip-cookie/p/20612257_EA
+cookie https://www.loblaws.ca/chocolate-chip-cookies/p/20566774_EA
+cookie https://www.loblaws.ca/oatmeal-chocolate-cookies/p/20566294_EA
+cookie https://www.loblaws.ca/the-decadent-chocolate-chunk-cookie/p/20612260_EA
+cookie https://www.loblaws.ca/monster-cookies-18-pack/p/21454952_EA
+cookie https://www.loblaws.ca/t-s-shortbread-cookies-pk-12/p/20725781_EA
+cracker https://www.walmart.ca/en/ip/Our-Finest-Premium-Cracker-Assortment/6000202057796
+cracker https://www.tntsupermarket.com/eng/71777801-tnt-almond-cracker.html
+cracker https://www.tntsupermarket.com/eng/50695001-tnt-corn-cheese-rice-cracker.html
+cracker https://www.tntsupermarket.com/eng/75671401-haitai-original-cracker.html
+cracker https://www.tntsupermarket.com/66663801-my-san-graham-honey-cracker.html
+cracker https://www.tntsupermarket.com/eng/67121101-want-want-rice-cracker.html
+cracker https://www.tntsupermarket.com/eng/79681101-want-want-golden-rice-cracker-family-pac.html
+cracker https://www.nofrills.ca/salted-tops-soda-crackers/p/20795392_EA
+cracker https://www.nofrills.ca/original-rice-crackers/p/20297188003_EA
+cracker https://www.nofrills.ca/original-snack-crackers/p/20150692_EA
+cracker https://www.nofrills.ca/sea-salt-crackers/p/20603888003_EA
+cracker https://www.nofrills.ca/sesame-rice-crackers/p/20297188006_EA
+cracker https://www.loblaws.ca/fine-cracker-assortment/p/20162130_EA
+cracker https://www.loblaws.ca/crisp-thin-vegetable-crackers/p/20185144001_EA
+cracker https://www.loblaws.ca/sea-salt-crackers/p/20603888003_EA
+cracker https://www.loblaws.ca/honey-graham-wafers/p/20606356_EA
+cracker https://www.loblaws.ca/salted-tops-soda-crackers/p/20795392_EA
+cracker https://www.loblaws.ca/unsalted-tops-soda-crackers/p/20219188002_EA
+pepperoni https://www.walmart.ca/en/ip/hormel-gluten-free-original-pepperoni/6000191273484
+pepperoni https://www.walmart.ca/en/ip/pillers-toppings-pepperoni/10299056
+pepperoni https://www.walmart.ca/en/ip/great-value-european-style-pepperoni-sticks/6000203275156
+pepperoni https://www.walmart.ca/en/ip/hormel-gluten-free-original-pepperoni/6000191273483
+pepperoni https://www.walmart.ca/en/ip/grimms-original-pepperoni-sticks/6000196927658
+pepperoni https://www.walmart.ca/en/ip/pillers-toppings-pepperoni/6000146303857
+pepperoni https://www.tntsupermarket.com/eng/69268301-pillers-pepperoni.html
+pepperoni https://www.tntsupermarket.com/eng/52326601-pillers-charcuterie-sliced-pepper-salami.html
+pepperoni https://www.nofrills.ca/pepperoni/p/20015818_EA
+pepperoni https://www.nofrills.ca/pepperoni-sliced/p/20189849_EA
+pepperoni https://www.nofrills.ca/pepperoni-sliced/p/20085869_EA
+pepperoni https://www.nofrills.ca/pizzeria-style-pepperoni/p/21464136_EA
+pepperoni https://www.nofrills.ca/pepperoni-sliced-club-pack/p/20040698_EA
+pepperoni https://www.nofrills.ca/pepperoni-mild-sliced/p/21217461_EA
+pepperoni https://www.nofrills.ca/pepperoni-spicy/p/21099384_EA
+pepperoni https://www.nofrills.ca/pepperoni-pizza-cut/p/20832437_EA
+pepperoni https://www.nofrills.ca/pepperettes-sausage-sticks-pepperoni/p/21433636_EA
+pepperoni https://www.loblaws.ca/pepperoni-sliced/p/20042333_EA
+pepperoni https://www.loblaws.ca/pepperoni-mild-sliced/p/21217461_EA
+pepperoni https://www.loblaws.ca/pepperoni-sliced/p/20085869_EA
+pepperoni https://www.loblaws.ca/pizzeria-style-pepperoni/p/21464136_EA
+pepperoni https://www.loblaws.ca/pepperoni-sliced-club-pack/p/20040698_EA
+pepperoni https://www.loblaws.ca/dry-pepperoni-sticks/p/20361952_EA
+pepperoni https://www.loblaws.ca/toppings-pepperoni-cup-char-semi-dry-cured/p/21493437_EA
+pepperoni https://www.loblaws.ca/smoke-house-naturally-smoked-pepperoni-honey-garli/p/21507915_EA
+jerky https://www.walmart.ca/en/ip/JACK-LINK-S-ORIGINAL-BEEF-JERKY-80G/6000188761856
+jerky https://www.walmart.ca/en/ip/JACK-LINK-S-ORIGINAL-BEEF-JERKY-230g/6000197071284
+jerky https://www.tntsupermarket.com/75735701-soo-sweet-grilled-beef-jerky.html
+jerky https://www.tntsupermarket.com/eng/64290801-soo-five-spices-beef-jerky.html
+jerky https://www.tntsupermarket.com/75978201-soo-satay-beef-jerky.html
+jerky https://www.tntsupermarket.com/eng/75735701-soo-sweet-grilled-beef-jerky.html
+jerky https://www.tntsupermarket.com/eng/52609601-paramount-original-beef-jerky.html
+jerky https://www.nofrills.ca/beef-jerky-original/p/20501983002_EA
+jerky https://www.nofrills.ca/beef-jerky-teriyaki/p/20501983004_EA
+jerky https://www.nofrills.ca/doritos-beef-jerky-sweet-chili-heat-flavour/p/21594045_EA
+jerky https://www.nofrills.ca/bacon-jerky-hickory-smoked/p/21071594_EA
+jerky https://www.loblaws.ca/beef-jerky-original/p/20501983002_EA
+jerky https://www.loblaws.ca/free-from-original-beef-jerky/p/21082153_EA
+jerky https://www.loblaws.ca/original-beef-jerky/p/21082184_EA
+jerky https://www.loblaws.ca/free-from-teriyaki-beef-jerky/p/21082111_EA
+jerky https://www.loblaws.ca/beef-jerky-teriyaki/p/20501983004_EA
+bacon https://www.walmart.ca/en/ip/great-value-naturally-smoked-bacon/6000191272205
+bacon https://www.walmart.ca/en/ip/great-value-naturally-smoked-bacon/6000191272204
+bacon https://www.walmart.ca/en/ip/great-value-peameal-bacon/PRD5DSHJWYBWGAG
+bacon https://www.walmart.com/ip/Butterball-Lower-Sodium-Ready-to-Serve-Turkey-Bacon-Gluten-Free-12-oz/15610398
+bacon https://www.tntsupermarket.com/eng/74957201-maple-leaf-regular-bacon.html

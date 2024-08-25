@@ -1,0 +1,70 @@
+soda coca-cola | soft drink coke -> Coca-Cola, soda
+soda pepsi | soft drink -> pepsi, soda
+soda sprite | soft drink -> sprite, soda
+soda 7-up | soft drink 7up -> 7up, soda
+soda mountain dew | soft drink -> mountain dew, soda
+soda dr pepper | soft drink -> dr pepper, soda
+milk -> milk
+chip lays | lay's -> chip, lay's chip
+pringles | chip -> chip, pringles chip
+doritos | chip -> chip, doritos chip
+ruffles | chip -> chip, ruffles chip
+cheetos puff -> chip, cheetos
+kettle chip -> chip, kettle chip
+egg -> egg
+bread -> bread
+cereal kellogg -> cereal, kellogg cereal
+cereal general mills -> cereal, general mills cereal
+cereal fruity fruit	-> cereal, fruit cereal
+cereal nestle -> cereal, nestle cereal
+cereal cheerios -> cereal, cheerios
+cereal nesquik -> cereal, nesquik cereal
+candy bar -> candy
+cheese -> cheese
+beer -> beer
+water -> water
+cigarette -> cigarette
+chocolate bar | hershey cadbury mars kit kat milka toblerone ferrero lindt -> chocolate bar
+snack cake | hostess little debbie entenmann drake tastykake -> snack cake
+cookie -> cookie
+cracker -> cracker
+pepperoni -> pepperoni
+jerky -> jerky
+bacon -> bacon
+ham -> ham
+wine -> wine
+muffin -> muffin
+granola bar -> granola bar
+apple -> apple
+banana -> banana
+orange -> orange
+grape -> grape
+strawberry -> strawberry
+blueberry -> blueberry
+raspberry -> raspberry
+pineapple -> pineapple
+watermelon -> watermelon
+cantaloupe -> cantaloupe
+honeydew -> honeydew
+kiwi -> kiwi
+mango -> mango
+peach -> peach
+plum -> plum
+spinach -> spinach
+lettuce -> lettuce
+carrot -> carrot
+broccoli -> broccoli
+cauliflower -> cauliflower
+cabbage -> cabbage
+onion -> onion
+garlic -> garlic
+pepper -> pepper
+tomato -> tomato
+bean -> bean
+pea -> pea
+zucchini -> zucchini
+squash -> squash
+cucumber -> cucumber
+mushroom -> mushroom
+potato -> potato
+red bull -> energy drink, red bull

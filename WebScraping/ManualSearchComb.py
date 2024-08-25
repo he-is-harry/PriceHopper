@@ -3,7 +3,10 @@ import time
 from bs4 import BeautifulSoup
 from pynput.keyboard import Key, Controller, Listener
 import pyautogui
-import win32clipboard # type: ignore
+if sys.platform == "win32":
+    import win32clipboard
+elif sys.platform == "darwin":
+    from AppKit import NSPasteboard, NSStringPboardType
 from Source.HarryGoogleSearch.googlesearch import filter_result
 
 COMPANIES_FILE_PATH = "Files/companies.txt"
@@ -15,8 +18,8 @@ SEARCH_DELAY = 6
 # INSPECT_DELAY = 2
 COPY_DELAY = 1
 KEYBOARD_CMD_DELAY = 0.1
-INSPECT_MOUSE_CLICK_X = 1002
-INSPECT_MOUSE_CLICK_Y = 276
+INSPECT_MOUSE_CLICK_X = 1532
+INSPECT_MOUSE_CLICK_Y = 177
 
 STOP = 10
 
@@ -82,10 +85,15 @@ for i in range(0, len(wishlist), 2):
     time.sleep(COPY_DELAY)
 
     # get clipboard data
-    win32clipboard.OpenClipboard()
-    html = win32clipboard.GetClipboardData()
-    win32clipboard.EmptyClipboard()
-    win32clipboard.CloseClipboard()
+    if sys.platform == "win32":
+        win32clipboard.OpenClipboard()
+        html = win32clipboard.GetClipboardData()
+        win32clipboard.EmptyClipboard()
+        win32clipboard.CloseClipboard()
+    elif sys.platform == "darwin":
+        pb = NSPasteboard.generalPasteboard()
+        html = pb.stringForType_(NSStringPboardType)
+        pb.clearContents()
 
     hashes = set()
     count = 0

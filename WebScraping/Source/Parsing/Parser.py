@@ -118,6 +118,7 @@ def parseScientficPrice(priceStr):
     # Take the longest scientific price, we include the dollar sign or cents
     dollarIndex = priceStr.find('$')
     centsIndex = priceStr.find('¢')
+    isDollarPrice = True # False means is cent value
     if centsIndex < 0:
         workStr = priceStr[dollarIndex:]
     elif dollarIndex < 0:
@@ -128,6 +129,7 @@ def parseScientficPrice(priceStr):
             or priceStr[start - 1] == '.'):
             start -= 1
         workStr = priceStr[start:]
+        isDollarPrice = False
     else:
         # Dollar takes precedence over cents
         workStr = priceStr[dollarIndex:]
@@ -135,7 +137,10 @@ def parseScientficPrice(priceStr):
     while len(workStr) > 0:
         scientificPriceTuple = parseScientficPriceStrict(workStr)
         if scientificPriceTuple[0] >= 0:
-            return scientificPriceTuple
+            if isDollarPrice:
+                return scientificPriceTuple
+            else:
+                return (scientificPriceTuple[0] / 100, scientificPriceTuple[1], scientificPriceTuple[2])
         else:
             workStr = workStr[:-1]
     return (-1, 0, "")
@@ -176,7 +181,7 @@ def evaluateUnitPrice(index, lineList, productNameIndexList, product_word_list):
             minDist = abs(productNameIndexList[i] - index)
     score = minDist * 10
     score += 0.5 * len(lineList[index])
-    score += 0.1 * index
+    score += 0.3 * index
     closestProductName = findClosestProductName(index, lineList, productNameIndexList)
     score += 0.2 * len(closestProductName)
     score -= 5 * findNumWordMatches(closestProductName, product_word_list)

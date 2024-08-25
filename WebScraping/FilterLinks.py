@@ -14,7 +14,7 @@ companiesFile.close()
 
 # Make the company names more friendly for urls
 companiesList[companiesList.index("no frills")] = "nofrills"
-companiesList[companiesList.index("whole foods")] = "wholefoods"
+# companiesList[companiesList.index("whole foods")] = "wholefoods"
 
 filteredFile = open(FILTERED_RESULTS_FILE, "w")
 
@@ -42,6 +42,10 @@ for productLine in parseList:
         # not product pages
         if "browse/" in url.lower() and urlCompany.lower() == "walmart":
             valid = False
+        # Add a rule to replace the paths with fr/ in tnt to eng/
+        if "fr/" in url.lower() and urlCompany.lower() == "tntsupermarket":
+            print("Changed language: " + url + " " + url.replace("fr/", "eng/"))
+            url = url.replace("fr/", "eng/")
         
         if foundCompany and valid:
             filteredFile.write(product + " " + url + "\n")
